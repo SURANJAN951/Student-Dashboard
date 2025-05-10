@@ -1,12 +1,35 @@
-# React + Vite
+# 🎓 Student Dashboard – React + Vite + Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **responsive, feature-rich Student Dashboard** built using **React**, **Vite**, and **Firebase Authentication**. It offers functionality like user sign-up/login, student data management, filtering, dark/light mode toggle, and more.
 
-Currently, two official plugins are available:
+🔗 **Demo Walkthrough**: [Watch on YouTube](https://youtu.be/5kieH9s0xVg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React** – Frontend UI
+- ⚡ **Vite** – Fast build and development environment
+- 🔥 **Firebase** – Authentication and future-ready backend support
+- 🎨 **Tailwind CSS / CSS** – For modern responsive UI
+- 📦 **ESLint** – For maintaining clean and consistent code
+
+---
+
+## ✨ Features
+
+- 🔐 **Authentication** (Sign up / Login with Firebase)
+- ➕ **Add Student Data**
+- 🔍 **Filter Students** by Course (e.g., React)
+- 🌓 **Dark/Light Mode** toggle
+- 📊 **Graph Mode View** *(Coming soon!)*
+- 🔄 **Real-Time Interaction** with Firebase backend
+
+---
+
+## 🛠 Setup Instructions
+
+1. **Clone the Repo**
+   ```bash
+   git clone https://github.com/SURANJAN951/Student-Dashboard.git
+   cd Student-Dashboard
