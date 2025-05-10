@@ -22,7 +22,6 @@ This project is a **responsive, feature-rich Student Dashboard** built using **R
 - ➕ **Add Student Data**
 - 🔍 **Filter Students** by Course (e.g., React)
 - 🌓 **Dark/Light Mode** toggle
-- 📊 **Graph Mode View** *(Coming soon!)*
 - 🔄 **Real-Time Interaction** with Firebase backend
 
 ---
@@ -32,4 +31,4 @@ This project is a **responsive, feature-rich Student Dashboard** built using **R
 1. **Clone the Repo**
    ```bash
    git clone https://github.com/SURANJAN951/Student-Dashboard.git
-   cd Student-Dashboard
+   cd baby
